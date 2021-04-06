@@ -1,0 +1,13 @@
+body {
+    background-color: darkgoldenrod;
+}
+.div1 {
+    border-style: ridge;
+    border-color: lightslategrey;
+    border-width: 5px;
+}
+.div2 {
+    border-style: dotted;
+    border-color: tomato;
+    border-width: 9px;
+}
